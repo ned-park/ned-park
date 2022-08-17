@@ -5,7 +5,7 @@
 
 - Learn more about me at [ned-park.netlify.app](ned-park.netlify.app)
 
-- 📫 How to reach me **nedpark_dev<arobase>protonmail.com**
+- 📫 How to reach me **nedpark_dev&lt;arobase&gt;protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
