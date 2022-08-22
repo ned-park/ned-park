@@ -19,7 +19,7 @@
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ned-park&theme=tokyonight_duo" alt="ned-park" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ned-park&theme=tokyonight_duo&layout=compact" alt="ned-park" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ned-park&theme=react&layout=compact" alt="ned-park" /></p> -->
 
 <!--
 **ned-park/ned-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
