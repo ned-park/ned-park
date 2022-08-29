@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **the mathematics of paper folding.**
 
+- I’m currently reading **Chapter 2 of Donald Knuth's The Art of Computer Programming.**
+
 - Learn more about me at [ned-park.netlify.app](ned-park.netlify.app)
 
 - 📫 How to reach me **nedpark_dev&lt;arobase&gt;protonmail.com**
