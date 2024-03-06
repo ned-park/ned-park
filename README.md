@@ -5,10 +5,6 @@
 
 - I’m currently reading **Chapter 2 of Donald Knuth's The Art of Computer Programming.**
 
-- Learn more about me at [ned-park.netlify.app](ned-park.netlify.app)
-
-- 📫 How to reach me **nedpark_dev@protonmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ned-park" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="ned-park" height="30" width="40" /></a>
