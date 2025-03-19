@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ned</h1>
 <h3 align="center">A full-stack software developer from Canada who enjoys creative problem solving</h3>
 
-- 🌱 I’m currently learning **the mathematics of paper folding.**
-
-- I’m currently reading **Chapter 2 of Donald Knuth's The Art of Computer Programming.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ned-park" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="ned-park" height="30" width="40" /></a>
-</p>
-
 <h6 align="center">Languages and Tools:</h6>
 <div align="center">   
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
